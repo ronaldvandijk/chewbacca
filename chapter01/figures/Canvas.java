@@ -31,7 +31,8 @@ public class Canvas
             canvasSingleton = new Canvas("BlueJ Picture Demo", 500, 300, 
                                          Color.white);
         }
-        canvasSingleton.setVisible(true);
+        // canvasSingleton.setVisible(true); 
+        canvasSingleton.setVisible(false);
         return canvasSingleton;
     }
 
