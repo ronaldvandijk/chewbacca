@@ -8,7 +8,7 @@ import java.util.*;
  * This is a modification of the general purpose Canvas, specially made for
  * the BlueJ "shapes" example. 
  *
- * @author: Bruce Quig
+ * @author: Bruce Quig Ronald was here
  * @author: Michael Kölling (mik)
  *
  * @version 2011.07.31
