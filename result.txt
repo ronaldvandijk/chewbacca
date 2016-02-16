@@ -47,3 +47,6 @@ d23d74d24d3fee95901d2a98c8e3f5107f93e3cc
 handin/someproject not found
 corresponding revision: 
 f28e6c1a86d7a6bae4e7fdb593d98cbca04d429c
+handin/someproject not found
+corresponding revision: 
+08df5202a6d8413061ad79ea7c2124b582fc3b6c
