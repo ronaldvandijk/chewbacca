@@ -20,3 +20,6 @@ corresponding revision:
 handin/someproject not found
 corresponding revision: 
 ed36ddb38d5ad90f38aabb7f95fd00b8d22616d5
+ not found
+corresponding revision: 
+8df2c05919044c75529b7e0cb15cdaab7a2f245c
