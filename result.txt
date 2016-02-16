@@ -17,3 +17,6 @@ bcccafc6759e34adede17ca81c3a170483f6e5f7
 handin/someproject not found
 corresponding revision: 
 3a79ff48577cc9aa676cf453eba424924519cbf6
+handin/someproject not found
+corresponding revision: 
+ed36ddb38d5ad90f38aabb7f95fd00b8d22616d5
