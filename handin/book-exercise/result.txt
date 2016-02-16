@@ -1,10 +1,10 @@
-Timestamp: 2016-02-16 11:51:54.4
+Timestamp: 2016-02-16 11:52:28.851
 
 There are 2 errors present
 Here is a summary of the problems:
 
 Book title currently not equates to expected value
 setting refnumber to null throws exception
-\n
+
 corresponding revision: 
-34b258014865674f1ce24a93d213b19dc4032d12
+ecc5441d22feada99e54b562c73bd649fa935a8d
