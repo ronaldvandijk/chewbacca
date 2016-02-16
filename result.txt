@@ -35,3 +35,6 @@ corresponding revision:
 handin/someprojecst not found
 corresponding revision: 
 5b145012bcda7214f8974ffaed79a6e317ce30c6
+handin/someproject not found
+corresponding revision: 
+63d623f31d906a3b3a10c1cd95ac9c8d6a921370
